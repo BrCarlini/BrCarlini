@@ -1,8 +1,7 @@
-<h1>Hi there!</h1>
+<h1>Bem-Vindo(a)</h1>
  <div>
   <ul>
     <li>🌱 I’m currently learning</li>
-    <li>😄 Pronouns: he/his</li>
    <ul>
   </div>
 
