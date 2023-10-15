@@ -1,7 +1,7 @@
 <h1>Bem-Vindo(a)</h1>
  <div>
   <ul>
-    <li>🌱 I’m currently learning</li>
+    <li>Dev Fullstack | Análise e Desenvolvimento de Sistemas</li>
     <li>Meu Portfólio: <a hreaf="https://portfolio-brcarlini.vercel.app">https://portfolio-brcarlini.vercel.app</a></li>
    <ul>
   </div>
